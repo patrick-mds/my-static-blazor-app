@@ -61,5 +61,6 @@ Global
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EC9ADCA0-AF9C-4DCA-971A-A96B676B5A8A}
+		StartupProject = Client
 	EndGlobalSection
 EndGlobal
